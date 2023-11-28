@@ -26,7 +26,7 @@ p {
     /* Styles for smaller screens */
     /* For example, adjust layout, font sizes, etc. */
     * {
-        font-size: 25px; /* Set the default font size for all elements */
+        font-size: 35px; /* Set the default font size for all elements */
       }
     
       .figure-image {
@@ -36,7 +36,4 @@ p {
         margin: 0 auto; /* Centers the image horizontally within the figure */
       }
 
-      body {
-        background: #ccc;
-      }
   }
