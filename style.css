@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(143, 189, 170);
+}
+
+.header1 {
+    text-align: center;
+  }
+
+p {
+    text-align: center;
+    font-size: 20px;
+  }
+
+.centered-figure {
+    text-align: center; /* Center the figure */
+  }
+
+  .figure-image {
+    width: 30%; /* Adjust the width of the image */
+    /* You can use other units (e.g., px, em) or percentages as needed */
+    display: block; /* Ensures the image doesn't display inline */
+    margin: 0 auto; /* Centers the image horizontally within the figure */
+  }
