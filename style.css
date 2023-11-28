@@ -35,4 +35,8 @@ p {
         display: block; /* Ensures the image doesn't display inline */
         margin: 0 auto; /* Centers the image horizontally within the figure */
       }
+
+      body {
+        background: #ccc;
+      }
   }
