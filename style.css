@@ -22,7 +22,7 @@ p {
     margin: 0 auto; /* Centers the image horizontally within the figure */
   }
 
-  @media all and (max-width: 600px) {
+  @media all and (max-width: 1200px) {
     /* Styles for smaller screens */
     /* For example, adjust layout, font sizes, etc. */
     * {
