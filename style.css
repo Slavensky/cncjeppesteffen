@@ -28,6 +28,8 @@ p {
   left: 50%;
   transform: translateX(-50%);
   margin-bottom: 20px;
+  color: 'black';
+
   }
 
   * {
@@ -53,5 +55,6 @@ p {
         left: 50%;
         transform: translateX(-50%);
         margin-bottom: 20px;
+        color: 'black';
         }
   }
