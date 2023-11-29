@@ -48,4 +48,10 @@ p {
         margin: 0 auto; /* Centers the image horizontally within the figure */
       }
 
+      .speak-button {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        margin-bottom: 20px;
+        }
   }
